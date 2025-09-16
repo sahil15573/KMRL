@@ -1,0 +1,177 @@
+2025-09-16 13:10:46,878 - __main__ - INFO - Document Ingestion System initialized
+2025-09-16 13:18:37,983 - __main__ - INFO - Document Ingestion System initialized
+2025-09-16 13:18:37,984 - __main__ - INFO - Starting processing cycle...
+2025-09-16 13:18:37,985 - __main__ - INFO - Found 1 new files to process
+2025-09-16 13:18:37,985 - __main__ - INFO - Processing batch 1 (1 files)
+2025-09-16 13:18:38,414 - __main__ - INFO - Batch complete: 1 successful, 0 failed
+2025-09-16 13:55:14,956 - __main__ - INFO - Document Ingestion System initialized
+2025-09-16 13:55:14,956 - __main__ - INFO - Starting processing cycle...
+2025-09-16 13:55:14,958 - __main__ - INFO - Found 3 new files to process
+2025-09-16 13:55:14,959 - __main__ - INFO - Processing batch 1 (3 files)
+2025-09-16 13:55:15,552 - __main__ - INFO - Batch complete: 3 successful, 0 failed
+2025-09-16 14:03:23,618 - __main__ - INFO - Document Ingestion System initialized
+2025-09-16 14:03:23,618 - __main__ - INFO - Starting processing cycle...
+2025-09-16 14:03:23,619 - __main__ - INFO - Found 3 new files to process
+2025-09-16 14:03:23,619 - __main__ - INFO - Processing batch 1 (3 files)
+2025-09-16 14:03:24,073 - __main__ - INFO - Batch complete: 3 successful, 0 failed
+2025-09-16 14:21:16,550 - __main__ - INFO - Document Ingestion System initialized
+2025-09-16 14:21:16,550 - __main__ - INFO - Starting processing cycle...
+2025-09-16 14:21:16,551 - __main__ - INFO - Found 3 new files to process
+2025-09-16 14:21:16,552 - __main__ - INFO - Processing batch 1 (3 files)
+2025-09-16 14:21:17,344 - __main__ - INFO - Batch complete: 3 successful, 0 failed
+2025-09-16 14:25:04,289 - __main__ - INFO - Document Ingestion System initialized
+2025-09-16 14:25:04,290 - __main__ - INFO - Starting processing cycle...
+2025-09-16 14:25:04,292 - __main__ - INFO - Found 3 new files to process
+2025-09-16 14:25:04,293 - __main__ - INFO - Processing batch 1 (3 files)
+2025-09-16 14:25:05,003 - __main__ - INFO - Batch complete: 3 successful, 0 failed
+2025-09-16 14:39:05,477 - __main__ - INFO - Document Ingestion System initialized
+2025-09-16 14:39:05,477 - __main__ - INFO - Starting processing cycle...
+2025-09-16 14:39:05,478 - __main__ - INFO - Found 3 new files to process
+2025-09-16 14:39:05,478 - __main__ - INFO - Processing batch 1 (3 files)
+2025-09-16 14:39:06,160 - __main__ - INFO - Batch complete: 3 successful, 0 failed
+2025-09-16 14:44:49,430 - __main__ - INFO - Document Ingestion System initialized
+2025-09-16 14:44:49,431 - __main__ - INFO - Starting processing cycle...
+2025-09-16 14:44:49,432 - __main__ - INFO - Found 3 new files to process
+2025-09-16 14:44:49,432 - __main__ - INFO - Processing batch 1 (3 files)
+2025-09-16 14:44:49,837 - __main__ - INFO - Batch complete: 0 successful, 3 failed
+2025-09-16 14:44:49,838 - __main__ - ERROR - Failed to process ./uploads\SahilKRResume.pdf: Processing failed: (psycopg2.OperationalError) could not translate host name "0812@db.fdzdydklzawqlksvprym.supabase.co" to address: Non-recoverable failure in name resolution
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-16 14:44:49,839 - __main__ - ERROR - Failed to process ./uploads\SahilKumarResume(2).pdf: Processing failed: (psycopg2.OperationalError) could not translate host name "0812@db.fdzdydklzawqlksvprym.supabase.co" to address: Non-recoverable failure in name resolution
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-16 14:44:49,839 - __main__ - ERROR - Failed to process ./uploads\Screenshot 2025-09-16 130317.png: Processing failed: (psycopg2.OperationalError) could not translate host name "0812@db.fdzdydklzawqlksvprym.supabase.co" to address: Non-recoverable failure in name resolution
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-16 15:00:22,060 - __main__ - INFO - Document Ingestion System initialized
+2025-09-16 15:00:22,061 - __main__ - INFO - Starting processing cycle...
+2025-09-16 15:00:22,061 - __main__ - INFO - Found 3 new files to process
+2025-09-16 15:00:22,061 - __main__ - INFO - Processing batch 1 (3 files)
+2025-09-16 15:00:22,148 - __main__ - INFO - Batch complete: 0 successful, 3 failed
+2025-09-16 15:00:22,149 - __main__ - ERROR - Failed to process ./uploads\SahilKRResume.pdf: Processing failed: (psycopg2.OperationalError) could not translate host name "0812@db.fdzdydklzawqlksvprym.supabase.co" to address: Non-recoverable failure in name resolution
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-16 15:00:22,149 - __main__ - ERROR - Failed to process ./uploads\SahilKumarResume(2).pdf: Processing failed: (psycopg2.OperationalError) could not translate host name "0812@db.fdzdydklzawqlksvprym.supabase.co" to address: Non-recoverable failure in name resolution
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-16 15:00:22,149 - __main__ - ERROR - Failed to process ./uploads\Screenshot 2025-09-16 130317.png: Processing failed: (psycopg2.OperationalError) could not translate host name "0812@db.fdzdydklzawqlksvprym.supabase.co" to address: Non-recoverable failure in name resolution
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-16 15:00:55,564 - __main__ - INFO - Document Ingestion System initialized
+2025-09-16 15:00:55,565 - __main__ - INFO - Starting processing cycle...
+2025-09-16 15:00:55,566 - __main__ - INFO - Found 3 new files to process
+2025-09-16 15:00:55,566 - __main__ - INFO - Processing batch 1 (3 files)
+2025-09-16 15:00:55,660 - __main__ - INFO - Batch complete: 0 successful, 3 failed
+2025-09-16 15:00:55,660 - __main__ - ERROR - Failed to process ./uploads\SahilKRResume.pdf: Processing failed: (psycopg2.OperationalError) could not translate host name "0812@db.fdzdydklzawqlksvprym.supabase.co" to address: Non-recoverable failure in name resolution
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-16 15:00:55,660 - __main__ - ERROR - Failed to process ./uploads\SahilKumarResume(2).pdf: Processing failed: (psycopg2.OperationalError) could not translate host name "0812@db.fdzdydklzawqlksvprym.supabase.co" to address: Non-recoverable failure in name resolution
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-16 15:00:55,661 - __main__ - ERROR - Failed to process ./uploads\Screenshot 2025-09-16 130317.png: Processing failed: (psycopg2.OperationalError) could not translate host name "0812@db.fdzdydklzawqlksvprym.supabase.co" to address: Non-recoverable failure in name resolution
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-16 15:01:26,201 - __main__ - INFO - Document Ingestion System initialized
+2025-09-16 15:01:26,202 - __main__ - INFO - Starting processing cycle...
+2025-09-16 15:01:26,203 - __main__ - INFO - Found 3 new files to process
+2025-09-16 15:01:26,203 - __main__ - INFO - Processing batch 1 (3 files)
+2025-09-16 15:01:26,298 - __main__ - INFO - Batch complete: 0 successful, 3 failed
+2025-09-16 15:01:26,298 - __main__ - ERROR - Failed to process ./uploads\SahilKRResume.pdf: Processing failed: (psycopg2.OperationalError) could not translate host name "db.fdzdydklzawqlksvprym.supabase.co" to address: Name or service not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-16 15:01:26,298 - __main__ - ERROR - Failed to process ./uploads\SahilKumarResume(2).pdf: Processing failed: (psycopg2.OperationalError) could not translate host name "db.fdzdydklzawqlksvprym.supabase.co" to address: Name or service not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-16 15:01:26,299 - __main__ - ERROR - Failed to process ./uploads\Screenshot 2025-09-16 130317.png: Processing failed: (psycopg2.OperationalError) could not translate host name "db.fdzdydklzawqlksvprym.supabase.co" to address: Name or service not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-16 15:06:48,744 - __main__ - INFO - Document Ingestion System initialized
+2025-09-16 15:06:48,745 - __main__ - INFO - Starting processing cycle...
+2025-09-16 15:06:48,745 - __main__ - INFO - Found 3 new files to process
+2025-09-16 15:06:48,746 - __main__ - INFO - Processing batch 1 (3 files)
+2025-09-16 15:06:48,844 - __main__ - INFO - Batch complete: 0 successful, 3 failed
+2025-09-16 15:06:48,845 - __main__ - ERROR - Failed to process ./uploads\SahilKRResume.pdf: Processing failed: (psycopg2.OperationalError) could not translate host name "db.fdzdydklzawqlksvprym.supabase.co" to address: Name or service not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-16 15:06:48,845 - __main__ - ERROR - Failed to process ./uploads\SahilKumarResume(2).pdf: Processing failed: (psycopg2.OperationalError) could not translate host name "db.fdzdydklzawqlksvprym.supabase.co" to address: Name or service not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-16 15:06:48,845 - __main__ - ERROR - Failed to process ./uploads\Screenshot 2025-09-16 130317.png: Processing failed: (psycopg2.OperationalError) could not translate host name "db.fdzdydklzawqlksvprym.supabase.co" to address: Name or service not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-16 15:10:13,564 - __main__ - INFO - Document Ingestion System initialized
+2025-09-16 15:10:13,564 - __main__ - INFO - Starting processing cycle...
+2025-09-16 15:10:13,565 - __main__ - INFO - Found 3 new files to process
+2025-09-16 15:10:13,565 - __main__ - INFO - Processing batch 1 (3 files)
+2025-09-16 15:10:13,659 - __main__ - INFO - Batch complete: 0 successful, 3 failed
+2025-09-16 15:10:13,659 - __main__ - ERROR - Failed to process ./uploads\SahilKRResume.pdf: Processing failed: (psycopg2.OperationalError) could not translate host name "db.fdzdydklzawqlksvprym.supabase.co" to address: Name or service not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-16 15:10:13,660 - __main__ - ERROR - Failed to process ./uploads\SahilKumarResume(2).pdf: Processing failed: (psycopg2.OperationalError) could not translate host name "db.fdzdydklzawqlksvprym.supabase.co" to address: Name or service not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-16 15:10:13,660 - __main__ - ERROR - Failed to process ./uploads\Screenshot 2025-09-16 130317.png: Processing failed: (psycopg2.OperationalError) could not translate host name "db.fdzdydklzawqlksvprym.supabase.co" to address: Name or service not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-16 15:14:23,947 - __main__ - INFO - Document Ingestion System initialized
+2025-09-16 15:14:23,947 - __main__ - INFO - Starting processing cycle...
+2025-09-16 15:14:23,948 - __main__ - INFO - Found 3 new files to process
+2025-09-16 15:14:23,948 - __main__ - INFO - Processing batch 1 (3 files)
+2025-09-16 15:14:24,042 - __main__ - INFO - Batch complete: 0 successful, 3 failed
+2025-09-16 15:14:24,043 - __main__ - ERROR - Failed to process ./uploads\SahilKRResume.pdf: Processing failed: (psycopg2.OperationalError) could not translate host name "db.fdzdydklzawqlksvprym.supabase.co" to address: Name or service not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-16 15:14:24,043 - __main__ - ERROR - Failed to process ./uploads\SahilKumarResume(2).pdf: Processing failed: (psycopg2.OperationalError) could not translate host name "db.fdzdydklzawqlksvprym.supabase.co" to address: Name or service not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-16 15:14:24,043 - __main__ - ERROR - Failed to process ./uploads\Screenshot 2025-09-16 130317.png: Processing failed: (psycopg2.OperationalError) could not translate host name "db.fdzdydklzawqlksvprym.supabase.co" to address: Name or service not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-16 15:15:29,877 - __main__ - INFO - Document Ingestion System initialized
+2025-09-16 15:15:29,878 - __main__ - INFO - Starting processing cycle...
+2025-09-16 15:15:29,879 - __main__ - INFO - Found 3 new files to process
+2025-09-16 15:15:29,879 - __main__ - INFO - Processing batch 1 (3 files)
+2025-09-16 15:15:29,978 - __main__ - INFO - Batch complete: 0 successful, 3 failed
+2025-09-16 15:15:29,978 - __main__ - ERROR - Failed to process ./uploads\SahilKRResume.pdf: Processing failed: (psycopg2.OperationalError) could not translate host name "db.fdzdydklzawqlksvprym.supabase.co" to address: Name or service not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-16 15:15:29,979 - __main__ - ERROR - Failed to process ./uploads\SahilKumarResume(2).pdf: Processing failed: (psycopg2.OperationalError) could not translate host name "db.fdzdydklzawqlksvprym.supabase.co" to address: Name or service not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-16 15:15:29,979 - __main__ - ERROR - Failed to process ./uploads\Screenshot 2025-09-16 130317.png: Processing failed: (psycopg2.OperationalError) could not translate host name "db.fdzdydklzawqlksvprym.supabase.co" to address: Name or service not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-16 15:30:33,989 - __main__ - INFO - Document Ingestion System initialized
+2025-09-16 15:30:33,991 - __main__ - INFO - Starting processing cycle...
+2025-09-16 15:30:33,992 - __main__ - INFO - Found 3 new files to process
+2025-09-16 15:30:33,992 - __main__ - INFO - Processing batch 1 (3 files)
+2025-09-16 15:30:45,861 - __main__ - INFO - Batch complete: 2 successful, 1 failed
+2025-09-16 15:30:45,862 - __main__ - ERROR - Failed to process ./uploads\SahilKumarResume(2).pdf: Processing failed: A string literal cannot contain NUL (0x00) characters.
+2025-09-16 15:52:25,091 - __main__ - INFO - Document Ingestion System initialized
+2025-09-16 15:52:25,092 - __main__ - INFO - Starting processing cycle...
+2025-09-16 15:52:25,092 - __main__ - INFO - Found 3 new files to process
+2025-09-16 15:52:25,093 - __main__ - INFO - Processing batch 1 (3 files)
+2025-09-16 15:52:25,186 - __main__ - INFO - Batch complete: 0 successful, 3 failed
+2025-09-16 15:52:25,186 - __main__ - ERROR - Failed to process ./uploads\SahilKRResume.pdf: Processing failed: type object 'Base' has no attribute 'meta_data'
+2025-09-16 15:52:25,187 - __main__ - ERROR - Failed to process ./uploads\SahilKumarResume(2).pdf: Processing failed: type object 'Base' has no attribute 'meta_data'
+2025-09-16 15:52:25,187 - __main__ - ERROR - Failed to process ./uploads\Screenshot 2025-09-16 130317.png: Processing failed: type object 'Base' has no attribute 'meta_data'
+2025-09-16 15:53:42,410 - __main__ - INFO - Document Ingestion System initialized
+2025-09-16 15:53:42,410 - __main__ - INFO - Starting processing cycle...
+2025-09-16 15:53:42,411 - __main__ - INFO - Found 3 new files to process
+2025-09-16 15:53:42,412 - __main__ - INFO - Processing batch 1 (3 files)
+2025-09-16 15:53:54,672 - __main__ - INFO - Batch complete: 2 successful, 1 failed
+2025-09-16 15:53:54,674 - __main__ - ERROR - Failed to process ./uploads\SahilKumarResume(2).pdf: Processing failed: A string literal cannot contain NUL (0x00) characters.
+2025-09-16 16:13:06,781 - __main__ - INFO - Document Ingestion System initialized
+2025-09-16 16:13:06,781 - __main__ - INFO - Starting processing cycle...
+2025-09-16 16:13:06,781 - __main__ - INFO - Found 3 new files to process
+2025-09-16 16:13:06,782 - __main__ - INFO - Processing batch 1 (3 files)
+2025-09-16 16:13:06,823 - __main__ - INFO - Batch complete: 0 successful, 3 failed
+2025-09-16 16:13:06,823 - __main__ - ERROR - Failed to process ./uploads\SahilKRResume.pdf: Processing failed: type object 'Base' has no attribute 'meta_data'
+2025-09-16 16:13:06,823 - __main__ - ERROR - Failed to process ./uploads\SahilKumarResume(2).pdf: Processing failed: type object 'Base' has no attribute 'meta_data'
+2025-09-16 16:13:06,823 - __main__ - ERROR - Failed to process ./uploads\Screenshot 2025-09-16 130317.png: Processing failed: type object 'Base' has no attribute 'meta_data'
+2025-09-16 16:13:33,479 - __main__ - INFO - Document Ingestion System initialized
+2025-09-16 16:13:33,480 - __main__ - INFO - Starting processing cycle...
+2025-09-16 16:13:33,480 - __main__ - INFO - Found 3 new files to process
+2025-09-16 16:13:33,481 - __main__ - INFO - Processing batch 1 (3 files)
+2025-09-16 16:13:44,143 - __main__ - INFO - Batch complete: 2 successful, 1 failed
+2025-09-16 16:13:44,143 - __main__ - ERROR - Failed to process ./uploads\SahilKumarResume(2).pdf: Processing failed: A string literal cannot contain NUL (0x00) characters.
